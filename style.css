@@ -1,0 +1,54 @@
+body {
+    background-image: radial-gradient(circle, rgb(253, 246, 235) 35%, rgb(252, 185, 163));
+    height: 100vh;
+}
+
+.header {
+    padding-top: 2vw;
+}
+
+.logo {
+    margin-left: 10vw;
+}
+
+.nav-item {
+    margin-left: -9vw;
+    margin-right: 10vw;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.article {
+    font-family: 'Righteous', cursive;
+    display: flex;
+    width: 80%;
+    padding-top: 5%;
+    align-items: center;
+}
+
+.text {
+    margin-right: -200px;
+}
+
+.text h1 {
+    font-size: 350%;
+    width: 55%;
+}
+
+.text p {
+    color: rgb(122, 122, 122);
+    width: 65%;
+}
+
+.btn {
+    border-radius: 50px;
+    width: 25%;
+    text-align: center;
+}
+
+.carousel-inner {
+    width: 33vw;
+    margin-right: 25px;
+}
